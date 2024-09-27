@@ -1,0 +1,30 @@
+[
+  {
+    "sitemap_xml": {
+      "frontend_url": "http://localhost:8000",
+      "chargefreq": "weekly",
+      "priority": "1.0"
+    },
+  },
+  {
+    "sitemap_xml": {
+      "frontend_url": "http://localhost:8000/posts",
+      "chargefreq": "weekly",
+      "priority": "1.0"
+    },
+  },
+  {
+    "sitemap_xml": {
+      "frontend_url": "http://localhost:8000/posts/1",
+      "chargefreq": "weekly",
+      "priority": "1.0"
+    },
+  },
+  {
+    "sitemap_xml": {
+      "frontend_url": "http://localhost:8000/posts/2",
+      "chargefreq": "weekly",
+      "priority": "1.0"
+    },
+  }
+]
